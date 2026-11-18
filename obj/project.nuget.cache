@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oJbbEw7364=",
+  "success": true,
+  "projectFilePath": "D:\\Backup\\Github Repository\\csharp-todo\\csharp-todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\11.0.0\\microsoft.extensions.caching.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.hybrid\\11.0.0\\microsoft.extensions.caching.hybrid.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.memory\\11.0.0\\microsoft.extensions.caching.memory.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\11.0.0\\microsoft.extensions.caching.stackexchangeredis.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\11.0.0\\microsoft.extensions.logging.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.options\\11.0.0\\microsoft.extensions.options.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0\\microsoft.extensions.primitives.11.0.0.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.1\\swashbuckle.aspnetcore.swaggerui.11.0.1.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\system.diagnostics.diagnosticsource\\11.0.0\\system.diagnostics.diagnosticsource.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
