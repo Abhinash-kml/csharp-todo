@@ -2,7 +2,7 @@ using Microsoft.Extensions.Caching.Hybrid;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddSingleton<TodoRepository, InMemoryTodoRepository>();
+builder.Services.AddSingleton<TodoRepository, EfCoreInMemoryRepository>();
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddStackExchangeRedisCache(option =>

@@ -43,3 +43,7 @@ D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\Microsoft.Extensions.P
 D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\Pipelines.Sockets.Unofficial.dll
 D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\StackExchange.Redis.dll
 D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Github Repository\csharp-todo\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Backup\Github Repository\csharp-todo\obj\Debug\net10.0\csharp-todo.sourcelink.json

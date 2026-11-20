@@ -1,6 +1,9 @@
+using System.ComponentModel.DataAnnotations;
+
 public class Todo
 {
-    public Guid Id { get; } = Guid.CreateVersion7();
+    [Key]
+    public Guid Id { get; init; } = Guid.CreateVersion7();
     public string Name { get; set; } = "";
     public bool IsCompleted { get; set; } = false;
 

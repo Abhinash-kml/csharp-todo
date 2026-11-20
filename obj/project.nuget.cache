@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2oJbbEw7364=",
+  "dgSpecHash": "El5eOjS/Z44=",
   "success": true,
   "projectFilePath": "D:\\Backup\\Github Repository\\csharp-todo\\csharp-todo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.15\\microsoft.entityframeworkcore.10.0.15.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.15\\microsoft.entityframeworkcore.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.15\\microsoft.entityframeworkcore.analyzers.10.0.15.nupkg.sha512",
+    "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.15\\microsoft.entityframeworkcore.inmemory.10.0.15.nupkg.sha512",
     "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\11.0.0\\microsoft.extensions.caching.abstractions.11.0.0.nupkg.sha512",
     "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.hybrid\\11.0.0\\microsoft.extensions.caching.hybrid.11.0.0.nupkg.sha512",
     "C:\\Users\\Abhinash\\.nuget\\packages\\microsoft.extensions.caching.memory\\11.0.0\\microsoft.extensions.caching.memory.11.0.0.nupkg.sha512",
